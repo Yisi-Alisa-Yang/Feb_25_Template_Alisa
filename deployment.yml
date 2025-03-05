@@ -27,4 +27,4 @@ spec:
   - name: home
     nfs:
       server: 128.239.56.166
-      path: /sciclone/home/yyang30/repos/today_in_class
+      path: /sciclone/home/yyang30/Feb_25_Template_Alisa
